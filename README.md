@@ -39,4 +39,5 @@ Debemos pensar desde cada rol cuál sería el requerimiento.
 
 INFORMACION ADICIONAL DE PROYECTO :
 URL repositorio: https://github.com/Lantpard/MisionTic.git 
-Url carpeta de google drive con la informacion de los sprint: https://1drv.ms/f/s!Asa0Miui7ty4gekdgdFqUQkILaDW7Q
+URl carpeta de google drive con la informacion de los sprint: https://1drv.ms/f/s!Asa0Miui7ty4gekdgdFqUQkILaDW7Q
+URL Seguimiento en Trello: https://trello.com/b/hJddq956/sprint-1
