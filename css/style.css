@@ -1,0 +1,71 @@
+.navegar{
+    
+    background-image: linear-gradient(to right, blueviolet, rgb(69, 68, 138));
+    
+    padding: 0px 10px;
+}
+
+.navegar1{
+    
+    padding: 0px 0px 0px 500px;
+}
+
+.navegacion{ 
+    float: left;
+}
+
+.borde{
+    border: 1px rgb(9, 44, 97) solid;
+    
+}
+
+.centrar{
+    align-items: center;
+
+}
+
+.inicio{
+    border-radius: 10px;
+    margin-top: 100px;
+    background-color:rgb(131, 90, 168);
+    
+}
+
+.login{
+    border-radius: 10px;
+    margin-top: 30px;
+    background-color:rgb(131, 90, 168);
+    
+}
+
+.textox{
+    font-size: 13px;
+}
+
+.celda{
+    align-content: "center";
+}
+
+
+td {
+    text-align: center;
+}
+
+th {
+    text-align: center;
+}
+
+li a:hover:not(.active) {
+    background-color: rgba(30, 115, 184, 0.815);
+}
+
+tr:hover {background-color: blueviolet;}
+
+li a:hover:active {
+    background-color: #04AA6D;
+}
+
+.active {
+    background-color:whitesmoke;
+
+}
