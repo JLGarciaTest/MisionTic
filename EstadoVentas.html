@@ -16,14 +16,20 @@
     <div class="d-inline-flex centrar w-100 p-3 gap-3">
             <img src="img/ventas.png" width="50" height="50">
             <label for="">Factura</label>
-            <input type="text" name="" id="" class="form-control entrada" placeholder="Factura" required="true">
-            <label for="">Vendedor</label>
-            <input type="text" name="" id="" class="form-control entrada" placeholder="Vendedor" required="true">
-            <label for="">Estado</label>
-            <input type="text" name="" id="" class="form-control entrada" placeholder="Estado">
+            <input type="text" name="" id="" class="form-control entrada w-50" placeholder="Factura" required="true">
+            <label for="">Id cliente</label>
+            <input type="text" name="" id="" class="form-control entrada w-50" placeholder="Id cliente" required="true">
+            <label for="">Nombre Cliente</label>
+            <input type="text" name="" id="" class="form-control entrada w-50" placeholder="Nombre Cliente">
             <img src="img/filter.png" width="20" height="20">
             <label for="">Filtrar</label>
     </div>
+    <div class="d-inline-flex centrar w-100 p-3 gap-3">
+        <label for="">Id Vendedor</label>
+        <input type="text" name="" id="" class="form-control entrada w-25" placeholder="Id Vendedor" required="true">
+        <label for="">Estado</label>
+        <input type="text" name="" id="" class="form-control entrada w-25" placeholder="Estado">
+</div>
 
     <div class="d-inline-flex centrar w-100 p-3 gap-3">
         <table class="table table-striped w-100 p-3 table-hover table-bordered border-dark">
@@ -31,6 +37,8 @@
                 <tr>
                     <th scope="col">#</th>
                     <th scope="col">Numero Factura</th>
+                    <th scope="col">Id Cliente</th>
+                    <th scope="col">Nombre Cliente</th>
                     <th scope="col">Descripcion</th>
                     <th scope="col">Total</th>
                     <th scope="col">Id Vendedor</th>
@@ -42,6 +50,8 @@
                 <tr>
                     <th scope="row">1</th>
                     <td>001</td>
+                    <td>1234567</td>
+                    <td>Pepito Perez</td>
                     <td>Credito xxx</td>
                     <td>1000</td>
                     <td>11234</td>
@@ -59,6 +69,8 @@
                 <tr>
                     <th scope="row">2</th>
                     <td>002</td>
+                    <td>9874561</td>
+                    <td>Juan Acosta</td>
                     <td>Credito aaa</td>
                     <td>2000</td>
                     <td>11234</td>
@@ -76,6 +88,8 @@
                 <tr>
                     <th scope="row">3</th>
                     <td>003</td>
+                    <td>6655486</td>
+                    <td>Margarita Ramirez</td>
                     <td>Credito bbb</td>
                     <td>3000</td>
                     <td>5678</td>
@@ -93,6 +107,8 @@
                 <tr>
                     <th scope="row">4</th>
                     <td>004</td>
+                    <td>1234567</td>
+                    <td>Pepito Perez</td>
                     <td>Credito ccc</td>
                     <td>1000</td>
                     <td>19032</td>
@@ -110,6 +126,8 @@
                 <tr>
                     <th scope="row">5</th>
                     <td>005</td>
+                    <td>8877441</td>
+                    <td>Camilo Garcia</td>
                     <td>Credito ddd</td>
                     <td>2000</td>
                     <td>5679</td>
@@ -127,6 +145,8 @@
                 <tr>
                     <th scope="row">6</th>
                     <td>006</td>
+                    <td>2345879</td>
+                    <td>Paula Triana</td>
                     <td>Credito eee</td>
                     <td>1000</td>
                     <td>19032</td>
@@ -149,6 +169,8 @@
                     <td></td>
                     <td></td>
                     <td></td>
+                    <td></td>
+                    <td></td>
                 </tr>
 
                 <tr>
@@ -159,10 +181,14 @@
                     <td></td>
                     <td></td>
                     <td></td>
+                    <td></td>
+                    <td></td>
                 </tr>
 
                 <tr>
                     <th scope="row">9</th>
+                    <td></td>
+                    <td></td>
                     <td></td>
                     <td></td>
                     <td></td>
