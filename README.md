@@ -6,7 +6,7 @@ Grupo: 31,32 y 33
 
 INTEGRANTES CON SUS ROLES: 
 
-Leonardo Antonio Pérez Ardila  ........	Master Scrum. 
+Leonardo Antonio Pérez Ardila  ........	Master Scrum (retirado). 
 
 José Luis García  ..............				Product Owner 
 
@@ -38,9 +38,7 @@ Debemos pensar desde cada rol cuál sería el requerimiento.
 
 
 INFORMACION ADICIONAL DE PROYECTO :
-URL repositorio: https://github.com/Lantpard/MisionTic.git 
-
-URl carpeta de google drive con la informacion de los sprint: https://1drv.ms/f/s!Asa0Miui7ty4gekdgdFqUQkILaDW7Q
+URL repositorio: https://github.com/JLGarciaTest/MisionTic.git
 
 URL Seguimiento en Trello: https://trello.com/b/hJddq956/sprint-1
 
